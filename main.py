@@ -1,5 +1,3 @@
-#To start game, right click on run in interactive window and then click on the top one.
-
 from tkinter import *
 from tkinter import messagebox
 import time
